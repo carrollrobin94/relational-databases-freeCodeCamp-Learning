@@ -1,6 +1,6 @@
-Started the course called Relational Databases From freeCodeCamp
-Learned the difference between code editors and IDEs
-code editors edit the code while IDEs help to compile and run the code
+Started the course called Relational Databases From freeCodeCamp,
+Learned the difference between code editors and IDEs,
+code editors edit the code while IDEs help to compile and run the code,
 
 Learned Bash Fundamentals
 such as pwd prints the current working directory, touch creates a file and rm deletes a file
@@ -16,12 +16,12 @@ Completed the workshop called Build a Database of Video Game Characters
 tables were created and linked by relationships to show which character ID does this character belong to
 
 
-Built a Celestial Bodies Database as Certification Project from the course
-the database file as proof is named as universe.sql
+Built a Celestial Bodies Database as Certification Project from the course,
+the database file as proof is named as universe.sql,
 five tables of planets,moons,stars,galaxy and universe contained data and were linked to each other via primary 
 and foreign keys
 
-Learned Bash Scripting
+Learned Bash Scripting,
 explains the purpose of the shebang and the use of for loop
 
 Completed the workshop called Build a Five Programs
